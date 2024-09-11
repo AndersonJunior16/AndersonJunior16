@@ -1,8 +1,14 @@
 ### 🖖 Hello World, i'm Junior 
 Analysis and Development of Systems student / FATEC - Taquaritinga
 
-![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonJunior16&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJunior16&hide_progress=true&theme=cobalt)
+<div >
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndersonJunior16&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&line_height=38&hide=issues&bg_color=90,000000,3a003a&title_color=A020F0&text_color=FFF&border_radius=10&border_color=36123c&icon_color=A020F0&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/AndersonJunior16/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonJunior16&line_height=30&card_width=350&layout=compact&hide_progress=true&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=A020F0&hide=html,css&bg_color=90,000000,3a003a&text_color=8B8B8B&border_radius=10&border-width=50px&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
 
 
 
